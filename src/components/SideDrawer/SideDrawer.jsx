@@ -28,46 +28,46 @@ export default class SideDrawer extends Component {
                         <ul>
                             <span className="side-drawer__title">Dashboard</span>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><ActivityIcon className="side-drawer__svg"/>Default</a>
+                                <a  href="/index.html" className="side-drawer__link"><ActivityIcon className="side-drawer__svg"/>Default</a>
                             </li>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><PieChartIcon className="side-drawer__svg"/>Analytics</a>
+                                <a  href="/index.html" className="side-drawer__link"><PieChartIcon className="side-drawer__svg"/>Analytics</a>
                             </li>
                             <span className="side-drawer__title">Display Data</span>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><FilmIcon className="side-drawer__svg"/>Carousel</a>
+                                <a  href="/index.html" className="side-drawer__link"><FilmIcon className="side-drawer__svg"/>Carousel</a>
                             </li>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><FacebookIcon className="side-drawer__svg"/>Social Media</a>
+                                <a  href="/index.html" className="side-drawer__link"><FacebookIcon className="side-drawer__svg"/>Social Media</a>
                             </li>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><GalleryIcon className="side-drawer__svg"/>Gallery</a>
+                                <a  href="/index.html" className="side-drawer__link"><GalleryIcon className="side-drawer__svg"/>Gallery</a>
                             </li>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><UsersIcon className="side-drawer__svg"/>Teams</a>
+                                <a  href="/index.html" className="side-drawer__link"><UsersIcon className="side-drawer__svg"/>Teams</a>
                             </li>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><AirplayIcon className="side-drawer__svg"/>Testinomials</a>
+                                <a  href="/index.html" className="side-drawer__link"><AirplayIcon className="side-drawer__svg"/>Testinomials</a>
                             </li>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><UserIcon className="side-drawer__svg"/>Authentication</a>
+                                <a  href="/index.html" className="side-drawer__link"><UserIcon className="side-drawer__svg"/>Authentication</a>
                             </li>
                             <span className="side-drawer__title">App</span>
                             <li className="side-drawer__list side-drawer__list--active">
-                                <a  href="#" className="side-drawer__link"><MapIcon className="side-drawer__svg"/>Maps</a>
+                                <a  href="/index.html" className="side-drawer__link"><MapIcon className="side-drawer__svg"/>Maps</a>
                             </li>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><MailIcon className="side-drawer__svg"/>Mail</a>
+                                <a  href="/index.html" className="side-drawer__link"><MailIcon className="side-drawer__svg"/>Mail</a>
                             </li>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><CalendarIcon className="side-drawer__svg"/>Event</a>
+                                <a  href="/index.html" className="side-drawer__link"><CalendarIcon className="side-drawer__svg"/>Event</a>
                             </li>
                             <span className="side-drawer__title">Help</span>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><ClockIcon className="side-drawer__svg"/>History</a>
+                                <a  href="/index.html" className="side-drawer__link"><ClockIcon className="side-drawer__svg"/>History</a>
                             </li>
                             <li className="side-drawer__list">
-                                <a  href="#" className="side-drawer__link"><PhoneIcon className="side-drawer__svg"/>Contact Us</a>
+                                <a  href="/index.html" className="side-drawer__link"><PhoneIcon className="side-drawer__svg"/>Contact Us</a>
                             </li>
                         </ul>
                     </div>
